@@ -1,0 +1,93 @@
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\bin\Debug\OOP Project HMS.exe.config
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\bin\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\bin\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP Project HMS.csprojAssemblyReference.cache
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.Form1.resources
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.Home.resources
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_information.resources
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_Registrationcs.resources
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.Properties.Resources.resources
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.GenerateResource.cache
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.CoreCompileInputs.cache
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.patientcheckout.resources
+C:\Users\MUGHAL SYSTEMS\source\repos\OOP Project HMS\OOP Project HMS\obj\Debug\OOP_Project_HMS.Staffinformation.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\bin\Debug\OOP Project HMS.exe.config
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\bin\Debug\OOP Project HMS.exe
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\bin\Debug\OOP Project HMS.pdb
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.AssemblyReference.cache
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.Form1.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.Home.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_information.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_Registrationcs.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.patientcheckout.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.Properties.Resources.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP_Project_HMS.Staffinformation.resources
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.GenerateResource.cache
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.CoreCompileInputs.cache
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP Project HMS.exe
+C:\Users\guest2\Desktop\Ali project\OOP Project HMS2\OOP Project HMS\obj\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\bin\Debug\OOP Project HMS.exe.config
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\bin\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\bin\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.csprojAssemblyReference.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Form1.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Home.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_information.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_Registrationcs.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.patientcheckout.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Properties.Resources.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Staffinformation.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.GenerateResource.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.CoreCompileInputs.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\bin\Debug\OOP Project HMS.exe.config
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\bin\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\bin\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.csprojAssemblyReference.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Form1.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Home.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_information.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_Registrationcs.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.patientcheckout.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Properties.Resources.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP_Project_HMS.Staffinformation.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.GenerateResource.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.CoreCompileInputs.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\OOP\OOP Project HMS2 - Copy\OOP Project HMS\obj\Debug\OOP Project HMS.pdb
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\bin\Debug\OOP Project HMS.exe.config
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\bin\Debug\OOP Project HMS.exe
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\bin\Debug\OOP Project HMS.pdb
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP Project HMS.csprojAssemblyReference.cache
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Doctor_Registration.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Form1.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Home.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_information.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Patient_Registrationcs.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.patientcheckout.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Properties.Resources.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP_Project_HMS.Staffinformation.resources
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.GenerateResource.cache
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP Project HMS.csproj.CoreCompileInputs.cache
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP Project HMS.exe
+C:\Users\Sheikhani Laptop\Desktop\OOP Project HMS\obj\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\bin\Debug\OOP Project HMS.exe.config
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\bin\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\bin\Debug\OOP Project HMS.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP Project HMS.csprojAssemblyReference.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Doctor_Registration.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Form1.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Home.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Patient_information.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Patient_Registrationcs.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.patientcheckout.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Properties.Resources.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP_Project_HMS.Staffinformation.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP Project HMS.csproj.GenerateResource.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP Project HMS.csproj.CoreCompileInputs.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP Project HMS.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\OOP PROJECT HMS\obj\Debug\OOP Project HMS.pdb
